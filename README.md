@@ -5,7 +5,7 @@ La interfaz de usuario se diseñó para ser intuitiva y funcional, garantizando 
 
 El objetivo principal del proyecto es proporcionar un entorno práctico para explorar el manejo de bases de datos y el desarrollo de aplicaciones web interactivas. La implementación del sistema CRUD facilita la gestión de los comentarios y refuerza el aprendizaje de buenas prácticas en desarrollo web, incluyendo el uso de MySQL para la gestión de bases de datos relacionales, la integración de servicios de hosting y FTP mediante InfinityFree y FileZilla para el despliegue de la aplicación, así como la creación de un flujo de trabajo dinámico que mejora la usabilidad del sistema. Este enfoque integral permite a los desarrolladores adquirir competencias esenciales en la manipulación de datos, despliegue de aplicaciones y desarrollo de interfaces interactivas, contribuyendo al éxito y la eficiencia del proyecto.
 
-En términos generales, este proyecto combina elementos de diseño, desarrollo y despliegue, consolidando conocimientos fundamentales en ingeniería de software y preparando la base para aplicaciones más complejas en el futuro.
+En términos generales, este proyecto combina elementos de diseño, desarrollo y despliegue, consolidando conocimientos fundamentales en ingeniería de software y preparando la base para aplicaciones más complejas en el futuro. Este entorno virtual permite a los usuarios consultar información sobre los libros disponibles y, adicionalmente, interactuar mediante una sección de retroalimentación donde pueden dejar comentarios personalizados.
 
 Link del proyecto: http://libreriaitlamaikin.freesite.online/
 
