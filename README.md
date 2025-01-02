@@ -1,5 +1,3 @@
-En este proyecto, hemos desarrollado una aplicación web que simula una biblioteca virtual. La base de datos utilizada fue proporcionada por el maestro, la cual contiene registros ficticios relacionados con libros, tales como títulos, autores y géneros. Este entorno virtual permite a los usuarios consultar información sobre los libros disponibles y, adicionalmente, interactuar mediante una sección de retroalimentación donde pueden dejar comentarios personalizados.  
-
 Descripción técnica del proyecto
 La funcionalidad principal de la aplicación se centra en un sistema CRUD (Create, Read, Update, Delete) implementado sobre una base de datos MySQL. Este sistema permite gestionar de manera dinámica los comentarios ingresados por los usuarios, proporcionando opciones para agregar, visualizar, actualizar y eliminar comentarios. La integración con MySQL asegura la persistencia de los datos y facilita la manipulación estructurada de la información mediante consultas SQL.
 
